@@ -5,7 +5,6 @@ x = "Space is empty, but fun"
 x1 = "Experimentation with gravity does miracles"
 x2 = "Life on earth is simple but fun"
 x3 = "If there is nothing outside the text like Derida says then simply there is nothing"
-x4 = "text"
 x5 = "so reading on love or hate or revenge and anger makes people slim"
 x6 = "so many people do read"
 x7 = "the same fashion they write!"
@@ -20,7 +19,6 @@ print(bool(x))
 print(bool(x1))
 print(bool(x2))
 print(bool(x3))
-print("False")
 print(bool(x5))
 print(bool(x6))
 print(bool(x7))
